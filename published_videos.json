@@ -3532,5 +3532,23 @@
         "page_name": "Pressed Tunes"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushing_watermelon_20260926031625.mp4",
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook",
+        "page_id": "1396611686858888",
+        "error": "{\"error\":{\"message\":\"You cannot access the app till you log in to www.facebook.com and follow the instructions given.\",\"type\":\"OAuthException\",\"code\":190,\"error_data\":\"{\\\"checkpoint_url\\\":\\\"https:\\\\\\/\\\\\\/www.facebook.com\\\"}\",\"error_subcode\":459,\"fbtrace_id\":\"AFVC-PNNOrH9YmWnVHzpt_w\"}}",
+        "page_name": "Pressed Tunes"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story",
+        "page_id": "1396611686858888",
+        "page_name": "Pressed Tunes"
+      }
+    ]
   }
 ]
