@@ -3550,5 +3550,23 @@
         "page_name": "Pressed Tunes"
       }
     ]
+  },
+  {
+    "filename": "Hydraulic_press_crushes_kiwi_fruit_20260926031624.mp4",
+    "results": [
+      {
+        "status": "failed",
+        "platform": "facebook",
+        "page_id": "1396611686858888",
+        "error": "{\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AY_OShJ1Bd1yn78m9AFKwXO\"}}",
+        "page_name": "Pressed Tunes"
+      },
+      {
+        "status": "failed",
+        "platform": "facebook_story",
+        "page_id": "1396611686858888",
+        "page_name": "Pressed Tunes"
+      }
+    ]
   }
 ]
